@@ -14,13 +14,16 @@ namespace ObserverPattern
 
         public void AddSlider(SliderObserver observer)
         {
+            // 매개변수로 넘어온 observer가 HpSlider로 형변환이 가능한지 확인
             if (observer is HpSlider)
             {
+                // observer를 HpSlider로 형변환후 hp에 값 저장
                 hp = observer as HpSlider;
                 Console.WriteLine("Hp is not Null");
             }
             else
             {
+                // 변경이 안되면 오류 메시지 출력
                 throw new Exception("Hp is Null");
             }
 
