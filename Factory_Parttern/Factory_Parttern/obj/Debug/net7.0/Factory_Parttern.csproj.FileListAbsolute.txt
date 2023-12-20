@@ -1,0 +1,15 @@
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\bin\Debug\net7.0\Factory_Parttern.exe
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\bin\Debug\net7.0\Factory_Parttern.deps.json
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\bin\Debug\net7.0\Factory_Parttern.runtimeconfig.json
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\bin\Debug\net7.0\Factory_Parttern.dll
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\bin\Debug\net7.0\Factory_Parttern.pdb
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.csproj.AssemblyReference.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.AssemblyInfoInputs.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.AssemblyInfo.cs
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.csproj.CoreCompileInputs.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.dll
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\refint\Factory_Parttern.dll
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.pdb
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\Factory_Parttern.genruntimeconfig.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Factory_Parttern\Factory_Parttern\obj\Debug\net7.0\ref\Factory_Parttern.dll
