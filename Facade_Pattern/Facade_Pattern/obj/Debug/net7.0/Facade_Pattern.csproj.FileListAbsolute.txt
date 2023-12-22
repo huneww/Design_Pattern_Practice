@@ -1,0 +1,15 @@
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.exe
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.deps.json
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.runtimeconfig.json
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.dll
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.pdb
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.csproj.AssemblyReference.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.AssemblyInfoInputs.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.AssemblyInfo.cs
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.dll
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\refint\Facade_Pattern.dll
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.pdb
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.genruntimeconfig.cache
+C:\Users\hunwi\Desktop\Design_Pattern_Practice\Facade_Pattern\Facade_Pattern\obj\Debug\net7.0\ref\Facade_Pattern.dll
